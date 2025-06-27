@@ -1,2 +1,2 @@
-this is for forgetpassword
-this is for register
+this is for user
+this is for password
